@@ -1,0 +1,7 @@
+[project]
+name = "python-script"
+version = "0.1.0"
+description = "python 项目模板"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
